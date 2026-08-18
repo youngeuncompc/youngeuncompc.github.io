@@ -250,7 +250,7 @@ ul, li {
 }
 .linkArea ul li a:hover,
 .linkArea ul li a:active {
-    color: #8C7EAF;
+    color: #d70601;
     /*
      *  링크에 반응했을 때 (컴퓨터 : 마우스 오버, 모바일 : 누르고 있는 상태) 글씨에 포인트 색상을 적용하는 부분입니다.
      * This applies the point color to the text when interacting with links (computer: mouse over, mobile: press and hold).
@@ -263,7 +263,7 @@ ul, li {
      * 링크에 반응했을 때 (컴퓨터 : 마우스 오버, 모바일 : 누르고 있는 상태) 아이콘에 애니메이션을 주는 부분입니다. 아이콘에 애니메이션을 없애고 싶다면 지우세요.
      * This adds animation to icons when interacting with links (computer: mouse over, mobile: press and hold). If you want to remove the animation from icons, delete this section.
     */
-    color: #8C7EAF;
+    color: #d70601;
     /*
      *  링크에 반응했을 때 (컴퓨터 : 마우스 오버, 모바일 : 누르고 있는 상태) 아이콘에 포인트 색상을 적용하는 부분입니다. 
      * This applies the point color to the icons when interacting with links (computer: mouse over, mobile: press and hold).
