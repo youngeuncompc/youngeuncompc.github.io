@@ -74,7 +74,7 @@ ul, li {
     align-items: center;
     min-height:100vh;
     box-sizing: border-box;
-    background: linear-gradient(45deg, #DBE1EE, #FFF8FA);
+    background: linear-gradient(45deg, #ff0600, #d70601);
     /*
         background: linear-gradient(45deg, #DBE1EE, #FFF8FA);
 
@@ -96,7 +96,7 @@ ul, li {
     width:90vw;
     max-width:400px;
     text-align:center;
-    border-radius: 50% 50% 2em 2em / 28% 28% 2em 2em;
+    border-radius: 28% 28% 2em 2em / 28% 28% 2em 2em;
     /*
      * border-radius: 50% 50% 2em 2em / 28% 28% 2em 2em;
         페이지 내에 보이는 모서리가 둥근 하얀 컨텐츠박스를 표현한 부분입니다. 
@@ -146,7 +146,7 @@ ul, li {
     object-fit: cover;
     margin : 0 auto;
     display:block;
-    border:5px #8C7EAF solid;
+    border:3px #d70601 solid;
     /*
      *  border:5px #8C7EAF solid;
         이것은 썸네일의 테두리 색상을 지정합니다. 
